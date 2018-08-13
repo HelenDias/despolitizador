@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.9018755634c191fbf789f9fcc86d36e4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.08deacaf5ab44eacf9f71e7b652ccb96.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.2b7f1f656c7591ef95a47507ae67b2af.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.763d72aa94465dc5820e418784bec2dc.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.2e9594561ad4d667a4c5669a3314116a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.e22311d84844223c223da52d00da2645.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Despolitizador",
+  "short_name": "Despolitizador",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Traduzindo linguajar político para vocabulário das ruas",
+  "background_color": "#0291a7",
+  "theme_color": "#0291a7"
+}
